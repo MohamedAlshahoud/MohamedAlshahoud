@@ -25,7 +25,9 @@
 🧠 **Modélisation de données :**
 
 -MCD (Modèle Conceptuel de Données)
+
 -MLD (Modèle Logique de Données)
+
 
 📋 **Gestion de projet :**
 
