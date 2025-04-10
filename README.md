@@ -69,27 +69,32 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
   **Objectifs** : Générer des ventes en ligne, renforcer la présence de la marque, et offrir une expérience utilisateur exceptionnelle avec un paiement sécurisé et une navigation fluide.
 
 
-📚 Mes réalisations
-🏥 Maison Médicale Santé Ensemble – Plateforme de gestion des rendez-vous médicaux : Maison Médicale Santé Ensemble est une plateforme web développée avec Symfony 7.2, permettant aux patients de réserver des consultations en ligne, aux médecins de gérer leurs disponibilités et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.
+## 📚 Mes réalisations
 
-🛒 Développement d'une plateforme e-commerce complète avec Symfony : Création de AfamiaShop, une plateforme de vente en ligne permettant de gérer des produits, des paiements et une interface utilisateur fluide et sécurisée. Développement de la gestion des commandes, de la recherche par mots-clés, et de l'intégration de paiements sécurisés.
+- 🏥 **Maison Médicale Santé Ensemble – Plateforme de gestion des rendez-vous médicaux** : **Maison Médicale Santé Ensemble** est une plateforme web développée avec **Symfony 7.2**, permettant aux patients de réserver des consultations en ligne, aux médecins de gérer leurs disponibilités et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.  
 
-🛍️ Entomoshop – Site e-commerce d'insectes comestibles et produits associés : Entomoshop est un site e-commerce développé sous WordPress dans le cadre de mon stage en 2023. Il permet aux utilisateurs d'acheter des insectes comestibles, de l'alimentation Feed & Food, du matériel d'élevage et des produits pour la protection de la biodiversité. Le site propose des fonctionnalités avancées telles que la recherche par mots-clés, des filtres de catégorie, des options de tri, ainsi que des pages détaillées avec des images haute résolution et des descriptions complètes.
+- 🛒 **Développement d'une plateforme e-commerce complète avec Symfony** : Création de **AfamiaShop**, une plateforme de vente en ligne permettant de gérer des produits, des paiements et une interface utilisateur fluide et sécurisée. Développement de la gestion des commandes, de la recherche par mots-clés, et de l'intégration de paiements sécurisés.
 
-📋 Développement du site Sameth – Annuaire de prestataires du bien-être : Sameth est un annuaire en ligne développé sous le framework Symfony permettant aux utilisateurs de rechercher et trouver des prestataires de services bien-être. Le site propose une interface intuitive, la possibilité de s'inscrire, de mettre en avant des services, ainsi que des fonctionnalités avancées comme la recherche par mots-clés, des filtres de catégorie et des pages détaillées avec images et descriptions complètes.
+- 🛍️ **Entomoshop – Site e-commerce d'insectes comestibles et produits associés** : **Entomoshop** est un site e-commerce développé sous **WordPress** dans le cadre de mon stage en 2023. Il permet aux utilisateurs d'acheter des insectes comestibles, de l'alimentation Feed & Food, du matériel d'élevage et des produits pour la protection de la biodiversité. Le site propose des fonctionnalités avancées telles que la recherche par mots-clés, des filtres de catégorie, des options de tri, ainsi que des pages détaillées avec des images haute résolution et des descriptions complètes. 
 
-🌐 islWeb – Site web simple réalisé avec HTML et SASS : islWeb est un site statique créé pendant mes études à Saint Laurent. Ce projet comprend plusieurs pages avec un design attrayant, des images de haute qualité, et une interface utilisateur simple et épurée. Développé en HTML et SASS, ce projet m’a permis de pratiquer les bases du développement web tout en créant un site web fonctionnel et visuellement agréable.
+- 📋 **Développement du site Sameth – Annuaire de prestataires du bien-être** : **Sameth** est un annuaire en ligne développé sous le framework **Symfony** permettant aux utilisateurs de rechercher et trouver des prestataires de services bien-être. Le site propose une interface intuitive, la possibilité de s'inscrire, de mettre en avant des services, ainsi que des fonctionnalités avancées comme la recherche par mots-clés, des filtres de catégorie et des pages détaillées avec images et descriptions complètes.   
+  
+- 🌐 **islWeb – Site web simple réalisé avec HTML et SASS** : **islWeb** est un site statique créé pendant mes études à **Saint Laurent**. Ce projet comprend plusieurs pages avec un design attrayant, des images de haute qualité, et une interface utilisateur simple et épurée. Développé en **HTML** et **SASS**, ce projet m’a permis de pratiquer les bases du développement web tout en créant un site web fonctionnel et visuellement agréable.  
 
-🔌 Vintage Lab – Petit projet en PHP avec pagination : Vintage Lab est un projet créé en PHP durant mes études à Saint Laurent. Le site contient plusieurs pages avec un système de pagination pour naviguer à travers les résultats de chaque catégorie. Ce projet m’a permis de pratiquer l’intégration d’une logique de pagination et de travailler sur des projets simples mais efficaces pour une gestion optimale des pages.
+- 🔌 **Vintage Lab – Petit projet en PHP avec pagination** : **Vintage Lab** est un projet créé en **PHP** durant mes études à **Saint Laurent**. Le site contient plusieurs pages avec un système de pagination pour naviguer à travers les résultats de chaque catégorie. Ce projet m’a permis de pratiquer l’intégration d’une logique de pagination et de travailler sur des projets simples mais efficaces pour une gestion optimale des pages.  
 
-⚡ Optimisation des performances d'un site web e-commerce : Amélioration de la vitesse et de la réactivité d'un site e-commerce grâce à des optimisations côté serveur et frontend, incluant la gestion efficace des bases de données et le caching côté client.
+- ⚡ **Optimisation des performances d'un site web e-commerce** : Amélioration de la vitesse et de la réactivité d'un site e-commerce grâce à des optimisations côté serveur et frontend, incluant la gestion efficace des bases de données et le caching côté client.
 
-📝 Développement d'un blog personnel avec gestion de contenu : Création d’un blog avec WordPress, permettant de gérer facilement le contenu, y compris les articles, les catégories et les commentaires, tout en assurant une interface conviviale et un référencement optimisé.
+- 📝 **Développement d'un blog personnel avec gestion de contenu** : Création d’un blog avec **WordPress**, permettant de gérer facilement le contenu, y compris les articles, les catégories et les commentaires, tout en assurant une interface conviviale et un référencement optimisé.
 
-🔌 Intégration d'API tierces pour des services externes : Mise en œuvre d'API tierces, comme des services de paiement en ligne (ex. Stripe) et des API météo, pour offrir une expérience enrichie aux utilisateurs.
+- 🔌 **Intégration d'API tierces pour des services externes** : Mise en œuvre d'API tierces, comme des services de paiement en ligne (ex. **Stripe**) et des API météo, pour offrir une expérience enrichie aux utilisateurs.
+  
 
-🌐 Me contacter
-LinkedIn
-Portfolio
-Email
+## 🌐 Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
+- [Portfolio](https://mohamedalshahoud.com/)
+- [Email](alshahoudmohamed95@gmail.com)
+
 Merci d'avoir visité mon profil ! N'hésitez pas à me contacter si vous avez des questions ou des suggestions. 🙌
+
