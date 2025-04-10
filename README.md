@@ -13,12 +13,7 @@
 🎨 **Frontend :**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" /></p>
         
 🧩 **Backend :**
 
@@ -96,5 +91,5 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
 - [Portfolio](https://mohamedalshahoud.com/)
 - [Email](alshahoudmohamed95@gmail.com)
 
-Merci d'avoir visité mon profil ! N'hésitez pas à me contacter si vous avez des questions ou des suggestions. 🙌
+**Merci d'avoir visité mon profil !** N'hésitez pas à me contacter si vous avez des questions ou des suggestions. 🙌
 
