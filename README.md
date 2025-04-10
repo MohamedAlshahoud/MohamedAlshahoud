@@ -10,27 +10,55 @@
 
 ## 🛠️ Compétences Techniques
 
-🎨 Frontend :
-        
+🎨 **Frontend :**
 
-🧩 Backend :
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />
+</p>
+        
+🧩 **Backend :**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" />
+</p>
   
 
-🧱 CMS :
+🧱 **CMS :**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" />
+</p>
+
+🗄️ **Base de données :**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+</p>
 
 
-🗄️ Base de données :
+🧠 **Modélisation de données :**
+
+-MCD (Modèle Conceptuel de Données)
+-MLD (Modèle Logique de Données)
+
+📋 **Gestion de projet :**
+
+-Rédaction de cahier des charges
+
+🔧 **Version Control :**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+</p>
 
 
-🧠 Modélisation de données :
-MCD (Modèle Conceptuel de Données)
-MLD (Modèle Logique de Données)
-📋 Gestion de projet :
-Rédaction de cahier des charges
-🔧 Version Control :
+## 🌱 Projets récents
 
-
-🌱 Projets récents
 Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'ai contribué :
 
 Maison Médicale Santé Ensemble : Maison Médicale Santé Ensemble est une plateforme web développée avec Symfony 7.2, permettant aux patients de réserver des consultations en ligne, aux médecins de gérer leurs disponibilités, et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.
