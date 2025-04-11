@@ -24,14 +24,14 @@
 
 ## 🧠 Modélisation de données :
 
--MCD (Modèle Conceptuel de Données)
+MCD (Modèle Conceptuel de Données)
 
--MLD (Modèle Logique de Données)
+MLD (Modèle Logique de Données)
 
 
-📋 **Gestion de projet :**
+## 📋 Gestion de projet :
 
--Rédaction de cahier des charges
+Rédaction de cahier des charges
 
 
 ## 🌱 Projets récents
