@@ -1,6 +1,6 @@
 # Bonjour, je suis Mohamed ! 👋
 
-👋 Salut, c’est **Mohamed**, **développeur Web Full Stack** récemment diplômé, passionné , rigoureux et organisé.
+👋**Développeur Web Full Stack** récemment diplômé, passionné , rigoureux et organisé.
 
 💻 J’aime concevoir des interfaces modernes et construire des solutions web performantes — du simple site statique aux applications complexes.
 
