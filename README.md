@@ -1,6 +1,6 @@
 # Bonjour, je suis Mohamed ! 👋
 
-👋**Développeur Web Full Stack** récemment diplômé, passionné , rigoureux et organisé.
+👋**Développeur Web Full Stack** récemment diplômé à Liège, passionné , rigoureux et organisé.
 
 💻 J’aime concevoir des interfaces modernes et construire des solutions web performantes — du simple site statique aux applications complexes.
 
