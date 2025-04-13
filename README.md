@@ -2,7 +2,7 @@
 
 👋**Développeur Web Full Stack** récemment diplômé à Liège, passionné, créatif, rigoureux, autonome et organisé.
 
-💻 J’aime concevoir des interfaces modernes et construire des solutions web performantes — du simple site statique aux applications complexes.
+💻 J’aime concevoir des interfaces modernes et construire des solutions web performantes - du simple site statique aux applications complexes.
 
 🚀 Toujours curieux, je cherche en continu à apprendre, expérimenter et faire évoluer mes compétences.
 
