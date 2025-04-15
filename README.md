@@ -4,7 +4,7 @@
 
 💻 J’aime concevoir des **interfaces modernes** et construire des **solutions web performantes** - du simple site statique aux applications complexes.
 
-🚀 Toujours curieux, je cherche en continu à apprendre, expérimenter et faire évoluer mes compétences.
+🚀 Toujours **curieux**, je cherche en continu à **apprendre**, **expérimenter** et faire évoluer mes **compétences**.
 
 🎯 **Actuellement à la recherche d’une opportunité en tant que développeur Web Full Stack** – prêt à rejoindre une équipe motivée pour relever de nouveaux défis tech.
 
