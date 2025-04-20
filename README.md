@@ -36,7 +36,7 @@
 
 ## 📋 Gestion de projet :
 
-Rédaction de **cahier des charges**
+**Rédaction de cahier des charges**
 
 
 ## 🌱 Projets récents
