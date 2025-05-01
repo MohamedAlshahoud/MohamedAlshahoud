@@ -43,7 +43,7 @@
 
 Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'ai contribué :
 
-- **[GoTickets](https://github.com/MohamedAlshahoud/GoTickets)** : Maison Médicale Santé Ensemble est une plateforme web développée avec Symfony 7.2, permettant aux patients de réserver des consultations en ligne, aux médecins de gérer leurs disponibilités, et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.  
+- **[GoTickets](https://github.com/MohamedAlshahoud/GoTickets)** : GoTickets est un site de billetterie en ligne permettant aux utilisateurs de découvrir, réserver et gérer des billets pour des événements locaux. Le site est conçu pour être simple, rapide et sécurisé, tout en offrant une interface fluide pour une meilleure expérience utilisateur.
   **Objectifs** : Simplifier la prise de rendez-vous, automatiser la gestion des disponibilités et améliorer l'expérience des utilisateurs.
 - **[Maison Médicale Santé Ensemble](https://github.com/MohamedAlshahoud/MaisonMedicale-SanteEnsemble)** : Maison Médicale Santé Ensemble est une plateforme web développée avec Symfony 7.2, permettant aux patients de réserver des consultations en ligne, aux médecins de gérer leurs disponibilités, et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.  
   **Objectifs** : Simplifier la prise de rendez-vous, automatiser la gestion des disponibilités et améliorer l'expérience des utilisateurs.
