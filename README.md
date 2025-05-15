@@ -76,7 +76,7 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
 
 - 📝 **Développement d'un blog personnel avec gestion de contenu** : Création d’un blog avec **WordPress**, permettant de gérer facilement le contenu, y compris les articles, les catégories et les commentaires, tout en assurant une interface conviviale et un référencement optimisé.
 
-- 🔌 **Intégration d'API tierces pour des services externes** : Mise en œuvre d'API tierces, comme des services de paiement en ligne (ex. **Stripe**) et des API météo, pour offrir une expérience enrichie aux utilisateurs.
+- 🔌 **Intégration d'API tierces pour des services externes** : Mise en œuvre d'**API** tierces, comme des services de paiement en ligne (ex. **Stripe**) et des API météo, pour offrir une expérience enrichie aux utilisateurs.
   
 
 ## 🌐 Me contacter
