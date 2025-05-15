@@ -84,6 +84,7 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
 - [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
 - [Portfolio](https://mohamedalshahoud.com/)
 - [Email](alshahoudmohamed95@gmail.com)
+  
 
 **Merci d'avoir visité mon profil !** N'hésitez pas à me contacter si vous avez des questions ou des suggestions. 🙌
 
