@@ -6,7 +6,7 @@
 
 🚀 Toujours **curieux**, je cherche en continu à **apprendre**, **expérimenter** et faire évoluer mes **compétences**.
 
-🎯 **Actuellement à la recherche d’une opportunité en tant que développeur Web Full Stack** – prêt à rejoindre une **équipe** motivée pour relever de nouveaux défis tech.
+🎯 **Actuellement à la recherche d’une opportunité en tant que développeur web full stack** – prêt à rejoindre une **équipe** motivée pour relever de nouveaux défis tech.
 
 ## 🛠️ Compétences Techniques
 
