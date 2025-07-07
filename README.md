@@ -23,7 +23,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30" title="Laravel" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="30" />&nbsp;
+<span style="display: inline-flex; align-items: center;">
+  <i class="fas fa-database" style="margin-right: 5px;"></i>SQL
+</span>
+
 
 </p>
 
