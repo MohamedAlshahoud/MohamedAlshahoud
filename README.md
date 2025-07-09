@@ -82,8 +82,8 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
 
 ## 🌐 Me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
 - [Portfolio](https://mohamedalshahoud.com/)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
 - [Email](alshahoudmohamed95@gmail.com)
   
 
