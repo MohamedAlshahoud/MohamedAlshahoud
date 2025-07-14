@@ -45,7 +45,7 @@
 Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'ai contribué :
 
 - **[GoTickets Plateforme de billetterie](https://github.com/MohamedAlshahoud/GoTickets--plateforme-de-billetterie)** : **GoTickets** est un **site de billetterie** développé avec **Laravel 12** permettant aux **utilisateurs** de **découvrir**, **réserver** et **gérer** des **billets** pour des **événements** locaux.
-  Le site est conçu pour être **simple**, **rapide** et **sécurisé**, tout en offrant une **interface fluide** pour une **meilleure expérience** utilisateur.
+  **Le site** est conçu pour être **simple**, **rapide** et **sécurisé**, tout en offrant une **interface fluide** pour une **meilleure expérience** utilisateur.
   
   **Objectifs** : **découvrir** et **réserver** facilement des **billets** pour des **événements** locaux grâce à une **plateforme simple, rapide et sécurisée** offrant une expérience fluide et optimisée.
 - **[Maison Médicale Santé Ensemble](https://github.com/MohamedAlshahoud/MaisonMedicale-SanteEnsemble)** : **Maison Médicale Santé Ensemble** est une **plateforme web** développée avec **Symfony 7.2**, permettant aux patients de **réserver des consultations** en ligne, aux **médecins** de **gérer leurs disponibilités**, et aux **administrateurs** de **superviser le fonctionnement global**. La plateforme facilite la **gestion des rendez-vous médicaux** en automatisant les rappels et en offrant un suivi personnalisé pour les patients.
