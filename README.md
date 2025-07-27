@@ -56,7 +56,7 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
   **Objectifs** : **Mettre** en valeur **mon parcours** et **mes projets** tout en offrant une **plateforme facile** d’accès pour les **recruteurs** ou toute personne intéressée par **mes compétences**.
 - **[AfamiaShop - Plateform e-commerce d'accessoires](https://afamiashop.be/)** : **AfamiaShop** est un **site e-commerce** **développé** dans le cadre de mon **projet de fin d’études** pour **l’obtention du brevet d’enseignement supérieur en webdevelopment**, utilisant le framework **Symfony 6.1**. La plateforme **permet** **aux utilisateurs** d'**acheter des accessoires** de mode de qualité, avec une **interface conviviale** et **sécurisée**. **Les clients** peuvent explorer **cinq catégories** de produits **(médailles, boucles d'oreilles, colliers, charmes, bracelets)** et bénéficier de **fonctionnalités avancées** telles que la **recherche par mots-clés**, des **filtres de catégories**, des **options de tri**, des **évaluations** et des **commentaires**.
     
-  **Objectifs** : **Générer** des **ventes en ligne**, renforcer la présence de la marque, et offrir une expérience utilisateur exceptionnelle avec un paiement sécurisé et une navigation fluide.
+  **Objectifs** : **Générer** des **ventes en ligne**, renforcer **la présence de la marque**, et offrir une expérience utilisateur exceptionnelle avec un paiement sécurisé et une navigation fluide.
 
 
 ## 📚 Mes réalisations
