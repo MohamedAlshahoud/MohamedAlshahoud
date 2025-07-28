@@ -61,7 +61,7 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
 
 ## 📚 Mes réalisations
 
-- 🏥 **Maison Médicale Santé Ensemble – Plateforme de gestion des rendez-vous médicaux** : **Maison Médicale Santé Ensemble** est une plateforme web développée avec **Symfony 7.2**, permettant aux **patients** de **réserver des consultations** en ligne, **aux médecins** de gérer leurs disponibilités et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.  
+- 🏥 **Maison Médicale Santé Ensemble – Plateforme de gestion des rendez-vous médicaux** : **Maison Médicale Santé Ensemble** est une plateforme web développée avec **Symfony 7.2**, permettant aux **patients** de **réserver des consultations** en ligne, **aux médecins** de **gérer leurs disponibilités** et aux administrateurs de superviser le fonctionnement global. La plateforme facilite la gestion des rendez-vous médicaux en automatisant les rappels et en offrant un suivi personnalisé pour les patients.  
 
 - 🛒 **Développement d'une plateforme e-commerce complète avec Symfony** : Création de **AfamiaShop**, une plateforme de vente en ligne permettant de gérer des produits, des paiements et une interface utilisateur fluide et sécurisée. Développement de la gestion des commandes, de la recherche par mots-clés, et de l'intégration de paiements sécurisés.
 
