@@ -33,7 +33,8 @@
 <p>
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="30" style="filter: brightness(0) saturate(100%) invert(34%) sepia(87%) saturate(1912%) hue-rotate(193deg) brightness(97%) contrast(93%);" title="Word" /> 
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="30" style="filter: brightness(0) saturate(100%) invert(43%) sepia(35%) saturate(1831%) hue-rotate(85deg) brightness(110%) contrast(100%);" title="Excel" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Merchant_Center_Logo.png" width="30" />&nbsp;
+  <img src="URL_DU_LOGO" width="30" alt="Google Merchant Center" />
+
 </p>
 
 
