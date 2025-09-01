@@ -31,10 +31,7 @@
 ## 📊 Outils complémentaires 
 
 <p>
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Word_logo_%282013-2019%29.svg/512px-Microsoft_Word_logo_%282013-2019%29.svg.png" width="30" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Excel_logo_%282019%29.svg/512px-Microsoft_Excel_logo_%282019%29.svg.png" width="30" />
-
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/microsoft/microsoft-original.svg" width="30" title="Excel" />&nbsp;
 </p>
 
 
