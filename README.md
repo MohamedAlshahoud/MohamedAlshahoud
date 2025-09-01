@@ -31,7 +31,7 @@
 ## 📊 Outils complémentaires 
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/microsoft/microsoft-original.svg" width="30" title="Excel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/microsoft/microsoft-original.svg" width="30" />&nbsp;
 </p>
 
 
