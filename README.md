@@ -31,8 +31,8 @@
 ## 📊 Outils complémentaires 
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Microsoft_Office_Word_%282019–present%29.svg" width="30" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019–present%29.svg" width="30" />
 </p>
 
 
