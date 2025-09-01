@@ -31,8 +31,12 @@
 ## 📊 Outils complémentaires 
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Word_logo_%282013-2019%29.svg" height="30" title="Word" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Excel_logo_%282019%29.svg" height="30" title="Excel" />
+  <!-- Word -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Word_logo_%282013-2019%29.svg" height="30" title="Word" />&nbsp;
+
+<!-- Excel -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Excel_logo_%282019%29.svg" height="30" title="Excel" />
+
 </p>
 
 
