@@ -31,9 +31,9 @@
 ## 📊 Outils complémentaires 
 
 <p>
-    <img width="42" height="42" alt="image" src="https://github.com/user-attachments/assets/9e08a76b-7af8-44f6-8392-86286d811fd2" />
+    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9e08a76b-7af8-44f6-8392-86286d811fd2" />
 
-  <img width="44" height="43" alt="image" src="https://github.com/user-attachments/assets/06ca0ed2-ba9d-465c-ab05-3b17da5d4e3e" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/06ca0ed2-ba9d-465c-ab05-3b17da5d4e3e" />
 
 
 </p>
