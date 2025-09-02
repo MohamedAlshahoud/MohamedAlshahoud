@@ -24,6 +24,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30" title="Laravel" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" />
+<img width="39" height="39" alt="image" src="https://github.com/user-attachments/assets/ed524999-37f0-40f8-bcc9-ce41c06432ee" />
+
 
 </p>
 
