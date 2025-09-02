@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30" title="Laravel" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/12527c97-1c99-45e9-b7f3-539b9598ca3d" />
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ed524999-37f0-40f8-bcc9-ce41c06432ee" />
 
 
