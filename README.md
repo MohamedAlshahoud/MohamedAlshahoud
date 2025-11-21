@@ -57,10 +57,7 @@
 
 Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'ai contribué :
 
-- **[Application SUSHI FUJI](https://github.com/MohamedAlshahoud/App_SUSHI-FUJI)** * **Déploiement et Optimisation d'Application Point de Vente (POS) Mobile :** Installation et configuration complète de l'application Android **W&O POS** pour le restaurant **SUSHIE FUJI**. Le projet visait à transformer le processus de commande et d'encaissement en utilisant un dispositif mobile et en l'intégrant à l'imprimante Bluetooth existante (Jolimark TP510). Le résultat est une solution mobile **fiable** et **rapide**, optimisée pour un usage quotidien intensif en restauration.
-
-  **Objectifs :** Réaliser le déploiement d'une application POS mobile en s'assurant de la compatibilité matérielle (Bluetooth/ESC-POS), et configurer des flux de travail automatisés cruciaux,
-  notamment l'impression automatique du reçu client après le paiement, l'organisation du menu (catégories, articles), et la personnalisation des reçus (adresses, taxes).
+- **[Application SUSHI FUJI – W&O POS Mobile](https://github.com/MohamedAlshahoud/App_SUSHI-FUJI)** 
 
 - **[GoTickets Plateforme de billetterie](https://github.com/MohamedAlshahoud/GoTickets--plateforme-de-billetterie)** : **GoTickets** est un **site de billetterie** développé avec **Laravel 12** permettant aux **utilisateurs** de **découvrir**, **réserver** et **gérer** des **billets** pour des **événements** locaux.
   **Le site** est conçu pour être **simple**, **rapide** et **sécurisé**, tout en offrant une **interface fluide** pour une **meilleure expérience** utilisateur.
