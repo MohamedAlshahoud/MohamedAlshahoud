@@ -57,7 +57,7 @@
 
 Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'ai contribué :
 
-- **[Application SUSHI FUJI – W&O POS Mobile](https://github.com/MohamedAlshahoud/App_SUSHI-FUJI)** : **W&O POS** est une application mobile Android déployée pour le restaurant SUSHI FUJI, permettant de gérer les commandes des clients, l’organisation des tables, et l’impression automatique des tickets via l’imprimante Bluetooth Jolimark TP510. L’application est conçue pour être rapide, fiable et adaptée à un usage quotidien intensif en restauration, offrant une interface simple et intuitive pour le personnel.
+- **[Application SUSHI FUJI – W&O POS Mobile](https://github.com/MohamedAlshahoud/Application-SUSHI-FUJI-W-O-POS-Mobile)** : **W&O POS** est une application mobile Android déployée pour le restaurant SUSHI FUJI, permettant de gérer les commandes des clients, l’organisation des tables, et l’impression automatique des tickets via l’imprimante Bluetooth Jolimark TP510. L’application est conçue pour être rapide, fiable et adaptée à un usage quotidien intensif en restauration, offrant une interface simple et intuitive pour le personnel.
 
   **Objectifs** :
   Optimiser le processus de commande et d’encaissement en restaurant grâce à une application mobile complète, permettant la prise de commandes, l’impression automatique des tickets clients, la gestion des menus    et la personnalisation des reçus, tout en garantissant la compatibilité avec le matériel existant.
