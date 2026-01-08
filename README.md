@@ -91,7 +91,7 @@ Voici quelques-uns de mes projets récents que j’ai réalisés ou auxquels j'a
 
 - 🔌 **Vintage Lab – Petit projet en PHP avec pagination** : **Vintage Lab** est un projet créé en **PHP** durant mes études à **Saint Laurent**. Le site contient **plusieurs pages** avec un **système de pagination** pour naviguer à travers **les résultats de chaque catégorie**. Ce projet m’a permis de pratiquer **l’intégration d’une logique de pagination** et de travailler sur **des projets simples** mais efficaces pour une gestion optimale des pages.  
 
-- ⚡ **Optimisation des performances d'un site web e-commerce** : **Amélioration** de la vitesse et de **la réactivité** d'un site e-commerce grâce à **des optimisations** côté serveur et frontend, incluant la gestion efficace des bases de données et le caching côté client.
+- ⚡ **Optimisation des performances d'un site web e-commerce** : **Amélioration** de la vitesse et de **la réactivité** d'un site **e-commerce** grâce à **des optimisations** côté serveur et frontend, incluant la gestion efficace des bases de données et le caching côté client.
 
 - 📝 **Développement d'un blog personnel avec gestion de contenu** : Création d’un blog avec **WordPress**, permettant de gérer facilement le contenu, y compris les articles, les catégories et les commentaires, tout en assurant une interface conviviale et un référencement optimisé.
 
